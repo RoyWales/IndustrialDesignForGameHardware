@@ -11,7 +11,8 @@ Treyton Cowell- 100745472 - Designer / modeller
   Assignment 2 Video: https://www.youtube.com/watch?v=h30jgbIkLDE 
   
   TinkerCad project: https://www.tinkercad.com/things/763S71jsKRz?sharecode=nfZ9EdQVVH2Os6pL6BM9pF5nqBbhRIldcPtrVZ__rY8 
-  Wiring Demo: https://www.youtube.com/watch?v=-ERO568UJQ0
+ 
+ Wiring Demo: https://www.youtube.com/watch?v=-ERO568UJQ0
   
   Exploded view Animation: https://www.youtube.com/watch?v=VXh-guN0xoc 
     
