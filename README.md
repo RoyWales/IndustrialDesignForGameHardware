@@ -31,7 +31,7 @@ Slicer Video: https://www.youtube.com/watch?v=he_Ha6D9_aY
 
 Fabrication Process Video: 
 
-Project Progression video:
+Project Progression video: https://www.youtube.com/watch?v=VMRVWguorps 
 
 Electronic demo video:
     
