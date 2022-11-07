@@ -1,0 +1,20 @@
+Roy Wales - Wiring / Schematic designer
+- Wiring of the electronics integration
+- 3D printing
+- Collection/purchasing of materials
+- Exploded view/assembly
+- Schematic drawing
+
+Maddin Thom - Researcher / Calibration
+- Interaction with Unity
+- 3D printing
+- Project management
+- Schematic drawing
+- Electronics integration
+
+Treyton Cowell - Schematic designer / Development
+- Technical drawings
+- Paper prototype with integration
+- 3D printing
+- Schematic drawing
+- Electronics integration
