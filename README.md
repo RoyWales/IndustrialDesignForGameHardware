@@ -25,15 +25,15 @@ Treyton Cowell - 100745472 - Designer / modeller
   - Electronics integration
 
 
-Under the Assingment 2 folder is all of our assignment 2 parts. Some important links for assignment 2 are:
+Under the Assingment 3 folder is all of our assignment 2 parts. Some important links for assignment 3 are:
   
-Assignment 2 Video: https://www.youtube.com/watch?v=h30jgbIkLDE 
-  
-TinkerCad project: https://www.tinkercad.com/things/763S71jsKRz?sharecode=nfZ9EdQVVH2Os6pL6BM9pF5nqBbhRIldcPtrVZ__rY8 
- 
-Wiring Demo: https://www.youtube.com/watch?v=-ERO568UJQ0
-  
-Exploded view Animation: https://www.youtube.com/watch?v=VXh-guN0xoc 
+Slicer Video: https://www.youtube.com/watch?v=he_Ha6D9_aY 
+
+Fabrication Process Video: 
+
+Project Progression video:
+
+Electronic demo video:
     
 
 
