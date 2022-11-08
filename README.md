@@ -29,11 +29,11 @@ Under the Assingment 3 folder is all of our assignment 2 parts. Some important l
   
 Slicer Video: https://www.youtube.com/watch?v=he_Ha6D9_aY 
 
-Fabrication Process Video: 
+Fabrication Process Video: https://youtu.be/QasF1n7JYPM 
 
 Project Progression video: https://www.youtube.com/watch?v=VMRVWguorps 
 
-Electronic demo video:
+Electronic demo video: https://youtu.be/UliPiq2VFp0 
     
 
 
