@@ -34,6 +34,8 @@ Fabrication Process Video: https://youtu.be/QasF1n7JYPM
 Project Progression video: https://www.youtube.com/watch?v=VMRVWguorps 
 
 Electronic demo video: https://youtu.be/UliPiq2VFp0 
+
+Sound Game Repo: https://github.com/TreyCowell/SoundGame 
     
 
 
