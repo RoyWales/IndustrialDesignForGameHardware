@@ -35,6 +35,8 @@ Project Progression video: https://www.youtube.com/watch?v=VMRVWguorps
 
 Electronic demo video: https://youtu.be/UliPiq2VFp0 
 
+Interactive Scene Demo: https://youtu.be/yZMTdVypa_o 
+
 Sound Game Repo: https://github.com/TreyCowell/SoundGame 
     
 
