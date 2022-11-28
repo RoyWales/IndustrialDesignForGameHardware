@@ -35,9 +35,9 @@ Project Progression video: https://www.youtube.com/watch?v=VMRVWguorps
 
 Electronic demo video: https://youtu.be/UliPiq2VFp0 
 
-Interactive Scene Demo: https://youtu.be/yZMTdVypa_o 
+Interactive Scene and Controller Demo:  
 
-Sound Game Repo: https://github.com/TreyCowell/SoundGame 
+Sound Game Repo (interactive scene): https://github.com/RoyWales/SoundGameHardware
     
 
 
