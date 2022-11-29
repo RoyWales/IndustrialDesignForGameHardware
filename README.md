@@ -27,7 +27,7 @@ Treyton Cowell - 100745472 - Designer / modeller
 
 Under the Final Assignment folder is all of our final assignment parts. Some important links for assignment 4 are:
   
-Exploded view Animation: https://youtu.be/oVMrzb2WFQw 
+Exploded view Animation: https://youtu.be/vjYZ1SXqhMQ  
 
 Interactive Scene and Controller Demo:  https://youtu.be/417th-NIPuo 
 
