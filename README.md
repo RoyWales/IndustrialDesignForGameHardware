@@ -25,15 +25,9 @@ Treyton Cowell - 100745472 - Designer / modeller
   - Electronics integration
 
 
-Under the Assingment 3 folder is all of our assignment 2 parts. Some important links for assignment 3 are:
+Under the Final Assignment folder is all of our final assignment parts. Some important links for assignment 4 are:
   
-Slicer Video: https://www.youtube.com/watch?v=he_Ha6D9_aY 
-
-Fabrication Process Video: https://youtu.be/QasF1n7JYPM 
-
-Project Progression video: https://www.youtube.com/watch?v=VMRVWguorps 
-
-Electronic demo video: https://youtu.be/UliPiq2VFp0 
+Exploded view Animation: https://youtu.be/oVMrzb2WFQw 
 
 Interactive Scene and Controller Demo:  https://youtu.be/417th-NIPuo 
 
