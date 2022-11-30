@@ -31,6 +31,8 @@ Exploded view Animation: https://youtu.be/vjYZ1SXqhMQ
 
 Interactive Scene and Controller Demo:  https://youtu.be/417th-NIPuo 
 
+Participant Demo - https://youtu.be/aAjtqeehras 
+
 Sound Game Repo (interactive scene): https://github.com/RoyWales/SoundGameHardware
     
 
